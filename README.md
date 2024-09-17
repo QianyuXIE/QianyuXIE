@@ -2,7 +2,7 @@
 - 👀 I’m a 4th year undergraduate student majoring in **Electronical Information Science and Technology** at Jilin University
 - 🌱 I’m currently learning python & C#
 - 📫 Email Address: xieqy1921@gmail.com
-- 👔 LinkedIn: www.linkedin.com/in/qianyu-xie-6a8966325
+- 👔 LinkedIn: www.linkedin.com/in/qianyu-xie-julie
 
 <!---
 QianyuXIE/QianyuXIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
