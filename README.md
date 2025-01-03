@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QianyuXIE
-- 👀 I’m a 4th year undergraduate student majoring in **Electronical Information Science and Technology** at Jilin University
+- 👀 I’m a 4th year undergraduate student majoring in **Electronic Information Science and Technology** at Jilin University
 - 🌱 I’m currently learning python & C++ & Java
 - 📫 Email Address: xieqy1921@gmail.com
 - 👔 LinkedIn: www.linkedin.com/in/qianyu-xie-julie
