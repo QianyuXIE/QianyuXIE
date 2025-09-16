@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QianyuXIE
-- 👀 I’m a 4th year undergraduate student majoring in **Electronic Information Science and Technology** at Jilin University
-- 🌱 I’m currently learning python & C++ & Java
-- 📫 Email Address: xieqy1921@gmail.com
+- 👀 I’m a 1st year master student majoring in **Artificial Intelligence and Robotics** at the Chinese University of Hong Kong, Shen zhen
+- 🌱 I’m currently learning python & C++
+- 📫 Email Address: qianyuxie@link.cuhk.edu.cn
 - 👔 LinkedIn: www.linkedin.com/in/qianyu-xie-julie
 
 <!---
