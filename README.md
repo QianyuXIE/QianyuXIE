@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on Large models for multimodal sentiment analysis 
 - 📫 Email Address: qianyuxie@link.cuhk.edu.cn
 - 👔 LinkedIn: www.linkedin.com/in/qianyu-xie-julie
+- ✨ Personal Website: https://qianyuxie.github.io/
 
 <!---
 QianyuXIE/QianyuXIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
